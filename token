@@ -1,0 +1,2 @@
+curl -k -X POST --user APIユーザ名:APIユーザパスワード https://IPアドレス/phpipam/api/apiuser/user
+#トークン取得
