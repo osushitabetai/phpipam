@@ -1,2 +1,5 @@
 curl -k -X POST --user APIユーザ名:APIユーザパスワード https://IPアドレス/phpipam/api/apiuser/user
 #トークン取得
+
+{"code":200,"success":true,"data":{"token":トークン","expires":"2020-09-23 18:07:23"},"time":0.01}
+#トークン発行及び発行時間
